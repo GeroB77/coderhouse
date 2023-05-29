@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:ital,wght@1,100&display=swap');
+
+body {
+  font-family: 'Barlow Condensed', sans-serif;
+}
+
+h1 {
+  font-family: 'Barlow Condensed', sans-serif;
+  font-weight: bold;
+  color: black;
+  background-color: gray;
+}
+
+h2 {
+    font-family: 'Barlow Condensed', sans-serif;
+    font-weight: bold;
+    color: black;
+    background-color: gray;
+  }
+  
+
+p {
+  font-family: 'Barlow Condensed', sans-serif;
+  font-size: 32px;
+  color: black;
+  background-color: gray;
+}
+
+a {
+    font-family: 'Barlow Condensed', sans-serif;
+    font-weight: bold;
+    color:orange;
+    background-color: gray;
+  }
+
